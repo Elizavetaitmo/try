@@ -7,4 +7,8 @@ public class K extends null {
     public long ac() {
         return 333;
     }
+
+    public int af() {
+        return -1;
+    }
 }

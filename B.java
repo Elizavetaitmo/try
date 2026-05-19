@@ -35,4 +35,8 @@ public class B extends H {
     public java.util.Random mm() {
         return new java.util.Random();
     }
+
+    public String kk() {
+        return "Yes";
+    }
 }

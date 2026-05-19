@@ -51,4 +51,8 @@ public class H extends null implements F, K {
     public int cc() {
         return 42;
     }
+
+    public Object rr() {
+        return null;
+    }
 }
