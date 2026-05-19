@@ -47,4 +47,8 @@ public class H extends null implements F, K {
     public int[] ii() {
         return new int[]{4, 3, 2, 1};
     }
+
+    public int cc() {
+        return 42;
+    }
 }

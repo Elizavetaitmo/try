@@ -31,4 +31,8 @@ public class B extends H {
     public java.lang.Class qq() {
         return getClass();
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }
