@@ -1,4 +1,4 @@
-public class H implements F, K {
+public class H extends null implements F, K {
 
     private long c = 1234;
 
@@ -29,6 +29,22 @@ public class H implements F, K {
     }
 
     public String nn() {
-        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
+
+    public Object pp() {
+        return this;
+    }
+
+    public long dd() {
+        return 100500;
+    }
+
+    public int af() {
+        return -1;
+    }
+
+    public int[] ii() {
+        return new int[]{4, 3, 2, 1};
     }
 }

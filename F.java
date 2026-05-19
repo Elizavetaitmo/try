@@ -1,6 +1,6 @@
-public interface F {
+public class F extends null {
 
     int ae();
 
     float ff();
-} //q
+}

@@ -1,6 +1,6 @@
-public interface K {
+public class K extends null {
 
     double ee();
 
     int hh();
-} //q
+}
