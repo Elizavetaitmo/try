@@ -27,8 +27,4 @@ public class H implements F, K {
     public int hh() {
         return new java.util.Random().nextInt();
     }
-
-    public String nn() {
-        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
-    }
 }

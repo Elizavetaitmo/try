@@ -11,8 +11,4 @@ public class B extends H {
     public void bb() {
         System.out.println(42);
     }
-
-    public Object rr() {
-        return null;
-    }
 }
